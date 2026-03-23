@@ -20,18 +20,6 @@
 | **Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" height="30" /></a> |
 | **Studying** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,linux,redhat,bash,powershell" height="30" /></a> |
 
----
-
-## 🌐 Connect with me!
-
-<a href="https://www.linkedin.com/in/Kendryck Garcia/" target="blank">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
-</a>
-
-<a href="garciakendryck@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
-</a>
-
 
 <!--### Employer?
 > [!IMPORTANT]  
