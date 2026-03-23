@@ -1,26 +1,39 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A9FF7&height=120&section=header" alt="header"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=28&duration=4500&pause=500&color=3A9FF7&center=true&vCenter=true&width=550&lines=Hello%2C+it's+Kendryck+Garcia;Aspiring+Cybersecurity+Professional" alt="Typing SVG" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=3A9FF7&width=445&lines=Hello%2C+it's+Kendryck+Garcia;Aspiring+Cybersecurity+Professional)](https://git.io/typing-svg)
+---
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cpp)](https://skillicons.dev)
-### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,django,mysql,sqlite)](https://skillicons.dev)
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio)](https://skillicons.dev)
-### Studying
-[![Learning](https://skillicons.dev/icons?i=kali,linux,redhat,bash,powershell)](https://skillicons.dev)
+### 🔭 About Me
+* 🎓 **B.S. in Information Systems** | **Minor in Cybersecurity** @ CSI (CUNY)
+* 🛡️ **Passionate about mastering offensive and defensive cybersecurity tools.**
+* 💻 **Building virtual environments to simulate cyber attacks and test defensive strategies.**
 
-### Connect with me!
-<div>
-    <a href="https://www.linkedin.com/in/kendryck-garcia/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-      </a>
-</div>
+---
+
+## 🛠️ Technical Skills & Learning
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,py,cpp" height="30" /></a> |
+| **Frameworks** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,django,mysql,sqlite" height="30" /></a> |
+| **Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" height="30" /></a> |
+| **Studying** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,linux,redhat,bash,powershell" height="30" /></a> |
+
+---
+
+## 🌐 Connect with me!
+
+<a href="https://www.linkedin.com/in/Kendryck Garcia/" target="blank">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+</a>
+
+<a href="garciakendryck@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+</a>
+
 
 <!--### Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A9FF7&height=120&section=footer" alt="footer"/>
