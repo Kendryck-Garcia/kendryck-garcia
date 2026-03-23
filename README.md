@@ -5,7 +5,7 @@
 ---
 
 ### 🔭 About Me
-* 🎓 **B.S. in Information Systems** | **Minor in Cybersecurity** @ CSI (CUNY)
+* 🎓 **B.S. in Information Systems & Informatics** | **Minor in Cybersecurity** @ CSI (CUNY)
 * 🛡️ **Passionate about mastering offensive and defensive cybersecurity tools.**
 * 💻 **Currently building virtual environments to simulate cyber attacks and test defensive strategies.**
 
