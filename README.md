@@ -9,16 +9,6 @@
 * 🛡️ **Passionate about mastering offensive and defensive cybersecurity tools.**
 * 💻 **Currently building virtual environments to simulate cyber attacks and test defensive strategies.**
 
----
-
-## 🛠️ Technical Skills & Learning
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,py,cpp" height="30" /></a> |
-| **Frameworks** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,django,mysql,sqlite" height="30" /></a> |
-| **Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" height="30" /></a> |
-| **Studying** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,linux,redhat,bash,powershell" height="30" /></a> |
 
 
 <!--### Employer?
